@@ -1,10 +1,9 @@
 ## 👋 Introduce
 
 Hi I'm EINDEX, Application Security Specialist for Thoughtwokrs.
+
 Now, I am living in China. I have some knowage about **Threat modeling**, **Application Audit**, **Python**, etc.
 
-
-Welcome to ask question to me or raise issues and create pull reuqest to my repos.
 ## 💬 Welcome ask me about
 
 - Application Security
