@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=eindex.visitor-badge)
+
 <!--
 **EINDEX/EINDEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
