@@ -1,6 +1,32 @@
-### Hi there 👋
+## 👋 Introduce
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=eindex.visitor-badge)
+Hi I'm EINDEX, Application Security Specialist for Thoughtwokrs.
+Now, I am living in China. I have some knowage about **Threat modeling**, **Application Audit**, **Python**, etc.
+
+
+Welcome to ask question to me or raise issues and create pull reuqest to my repos.
+## 💬 Welcome ask me about
+
+- Application Security
+- SDLC
+- DevSecOps
+- Threat Modeling
+- Penetration test
+- Performance Optimization for python
+
+## 📫 How to reach me
+Social Media:
+[**Twitter**](https://twitter.com/eindex_li), [**Keybase**](https://keybase.io/eindexli)
+
+Blog:
+[中文](https://eindex.me)
+
+## 🌱 I’m currently learning
+- CKA
+- IPFS
+- SCA/SAST
+- Communication
+
 
 <!--
 **EINDEX/EINDEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +42,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Github Status
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=eindex.eindex)
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EINDEX&count_private=true)
