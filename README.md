@@ -18,7 +18,7 @@ Social Media:
 [**Twitter**](https://twitter.com/eindex_li), [**Keybase**](https://keybase.io/eindexli)
 
 Blog:
-[中文](https://eindex.me)
+[En](https://eindex.me)/[Cn](https://eindex.me/cn)
 
 ## 🌱 I’m currently learning
 - CKA
