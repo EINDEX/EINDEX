@@ -15,7 +15,7 @@ Now, I am living in China. I have some knowage about **Threat modeling**, **Appl
 
 ## 📫 How to reach me
 Social Media:
-[**Twitter**](https://twitter.com/eindex_li), [**Keybase**](https://keybase.io/eindexli)
+[**Twitter**](https://twitter.com/eindex_li), [**Keybase**](https://keybase.io/eindexli), <a rel="me" href="https://mastodon.social/@eindex">**Mastodon**</a>
 
 Blog:
 [En](https://eindex.me)/[Cn](https://eindex.me/cn)
