@@ -18,7 +18,7 @@ Social Media:
 [**Twitter**](https://twitter.com/eindex_li), [**Keybase**](https://keybase.io/eindexli), <a rel="me" href="https://mastodon.social/@eindex">**Mastodon**</a>
 
 Blog:
-[En](https://eindex.me)/[Cn](https://eindex.me/cn)
+[En](https://eindex.me)/[中](https://eindex.me/zh)
 
 ## 🌱 I’m currently learning
 - CKA
