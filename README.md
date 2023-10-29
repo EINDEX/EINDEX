@@ -1,43 +1,15 @@
-## 👋 Introduce
+## 👋 Welcome
 
-Hi I'm EINDEX, Application Security Specialist for Thoughtwokrs.
+I'm EINDEX, an Application Security Specialist at @Thoughtworks.
 
-Now, I am living in China. I have some knowledge about **Threat modeling**, **Application Audit**, **Python**, etc.
+With a strong background in the field of application security, I specialize in various areas such as Threat modeling, Application Security Review, Python, and more.
 
-## 💬 Welcome ask me about
+Here are a couple of my notable projects:
 
-- Application Security
-- SDLC
-- DevSecOps
-- Threat Modeling
-- Penetration test
-- Performance Optimization for python
+- [Logseq Copilot](https://github.com/eindex/logseq-copilot): A  Browser extension that allows you to access your Logseq via your browser.
+- [Logseq Memos Sync](https://github.com/eindex/logseq-memos-sync): A Logseq plugin for sync Memos to logseq.
 
-## 📫 How to reach me
-Social Media:
-[**Twitter**](https://twitter.com/eindex_li), <a rel="me" href="https://social.eindex.me/@eindex">**Mastodon**</a>
+You can connect with me through various channels:
 
-Blog:
-[En](https://eindex.me)/[中](https://eindex.me/zh)
-
-## 🌱 I’m currently learning
-- CKA
-- IPFS
-- SCA/SAST
-- Communication
-
-
-<!--
-**EINDEX/EINDEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Social Media: [**Twitter**](https://twitter.com/eindex_li), <a rel="me" href="https://social.eindex.me/@eindex">**Mastodon**</a>
+- Blog: [English Blog](https://eindex.me/en?ref=github), [Chinese Blog](https://eindex.me/zh?ref=github)
