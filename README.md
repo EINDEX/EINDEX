@@ -1,6 +1,6 @@
 ## 👋 Welcome
 
-I'm EINDEX, an Application Security Specialist at @Thoughtworks.
+I'm EINDEX, an Application Security Specialist & Full-stack developer.
 
 With a strong background in the field of application security, I specialize in various areas such as Threat modeling, Application Security Review, Python, and more.
 
