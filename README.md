@@ -11,5 +11,5 @@ Here are a couple of my notable projects:
 
 You can connect with me through various channels:
 
-- Social Media: [**Twitter**](https://twitter.com/eindex_li), <a rel="me" href="https://social.eindex.me/@eindex">**Mastodon**</a>
-- Blog: [English Blog](https://eindex.me/en?ref=github), [Chinese Blog](https://eindex.me/zh?ref=github)
+- Social Media: [**Twitter**](https://twitter.com/eindex_li), <a rel="me" href="https://mastodon.social/@eindex">**Mastodon**</a>
+- Blog: [English Blog](https://eindex.me?ref=github), [Chinese Blog](https://zh.eindex.me?ref=github)
